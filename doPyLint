@@ -1,0 +1,3 @@
+# xlhttpd_py/doPyLint
+
+pylint setup.py xlhttpd test*.py
