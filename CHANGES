@@ -1,10 +1,14 @@
 py/xlhttpd_py/CHANGES
 
 
+v0.0.3
+    2017-05-12
+        * drop dist/* from repos; plus minor edits                  SLOC  340
 v0.0.2
     2017-03-29
         * add configuration files
 v0.0.1
     2017-03-29
         * initial commit
+
 
