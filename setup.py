@@ -6,7 +6,7 @@
 import re
 from distutils.core import setup
 __version__ = re.search(r"__version__\s*=\s*'(.*)'",
-                        open('xlhttpd/__init__.py').read()).group(1)
+                        open('src/xlhttpd/__init__.py').read()).group(1)
 
 # see http://docs.python.org/distutils/setupscript.html
 
@@ -19,7 +19,7 @@ setup(name='xlhttpd_py',
       # list it here, without the .py extension but SQuoted
       py_modules=[],
       #
-      packages=['xlhttpd', ],
+      packages=['src/xlhttpd', ],
       #
       # following could be in scripts/ subdir; SQuote
       scripts=[],
