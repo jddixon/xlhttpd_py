@@ -3,13 +3,10 @@
 
 """ Currently just exercises test framework. """
 
-#import hashlib
-#import os
 import time
 import unittest
 
 from rnglib import SimpleRNG
-#from xlhttpd import *
 
 
 class TestWhatever(unittest.TestCase):

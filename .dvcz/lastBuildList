@@ -7,41 +7,48 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
-xlhttpd_py v0.0.5
-2017-08-03 21:14:55
+xlhttpd_py v0.0.6
+2017-08-24 20:42:54
 # BEGIN CONTENT #
 xlhttpd_py
+ .cache
+  v
+   cache
+    lastfailed bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
  .dvcz
-  builds b1e04db986562e0dcc8f79359fa4acb222e0b759
+  builds 78f6cf7660a0e67c19c943389751134554a6b484
   copyright 5be039ec22b90efe60eeb38d206670e54da64d72
-  lastBuildList 0c6ff9101442ed95d12bf9e03f669f1fed57611d
+  lastBuildList de492e4e47b51e90cc90e95860c757776297ae26
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
-  projCfg bd6f9e793b84aafac9206ae387392a75353f3c73
+  projCfg 8c7ced48afee3f4689112d7c3dcc6d58e42d8c00
   projCfg.local b372335a312f223256f458ea12f21c93efb267c6
-  version 684c3fe99740dff7c8934609d863524872330c27
- .gitignore 680b1aca0d2418b3b46a7e426df8bd31bd00e64f
+  version 3fb5305cb7927898026d2d304f8e8d56df2902ca
+ .gitignore 406ccb6b0393c3e2c4d8437bcdc11e492e93808a
  .gitignore.local dc759996ca1366caf080fde4a98d37e39e382eae
- CHANGES a0ca2b86ecc3a92353286bb594d6468ae927cd1a
+ CHANGES 5268903fd8b29fd634b0dd9df18d8bb22536eed3
  LICENSE-MIT.md 929652e5fc4b6bb39bfb473732a42b8860d05b82
- MANIFEST.in 4adf906b2cd5a5e68a3d78a36d9c643627646b7e
+ MANIFEST.in ee87ecf6928c0c4c69376734eba9cf532ce748b1
  README.md 6492f05c3fbf5cf302bce504d82cd533ea7c2896
  TODO 50bc14fb0db2824dfe3dfb6d13b7e4f95be64d24
  bkp2U c05c1a9fa40f1ebc3fce28f665033e03a8c65a3b
  checkCoverage 326694937e15be3753f946c80aecea856e7d7751
- countem 1a1c7538eccdaba5af497fc36084b12138a6a4bc
+ countem 7274f3218e54eea88093a0c967a448bc329771fd
  doPyLint 31321ad99eb3b9ac0928a68c29a8b5b88c9472fb
  ghpDoc
   index.md 1974acde9cc52cf877f05407ae082e0cffbe6885
  installit d03a60493e5d8d2fe00aa4cf0906e0ce22b1377b
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- setup.py ba62e742fade1b4bb9f2b6109dbe726c1b7fa79e
+ requirements.txt 9e8f870dfbeefa0e6c02718e15d0af0e7f2d0645
+ setup.py 637185e2e1c8e3df054c6ef886b30ae0b78ca73f
  src
   xlhttpd
-   __init__.py 80251f2921ad199c6144becc30e72377fcc7fa31
+   __init__.py 9e55b6575d8cd9ed024250cac090f2932f061177
  styleit ba06f7c90dee45e852f5e6dfcf0a75395b881a2b
  test.all 27baba122d2cd5d8a807f5afc2c256b26ef9f7f6
+ test_requirements.txt f98e3bc79ee6d70acef44c75f28832c8e53d4790
  tests
-  test_basics.py e350e5e72c610f6acb3c4b3d8c94011ce8c926e7
+  test_basics.py bd51ab0911dec1d1f24ebb40eacf2d8b02745d31
+ tox.ini aea958bd0358c23f3fee0e1542e19c548dd18910
 # END CONTENT #
 
-A+Ehln7NdCLY3CZb4JMznSSl7qhcWAx0FxL3U24MtuzpNGkuX97btWZxW8L1RoVEUPZZtPkD+3P1Xd6/yYITGy7TqEo+HMsso0YtBnAOxf7sE01SYu4W3LDYrNpdckcWM8iDe/GB9Gd5H7/gz4NUlLlRIGTmgL4aDRhcTJuemWe2JZwwf5RfNoUpPl0h75V6vZ3EOdSP7g5RhJrkwEg7clscMW2We7PKqw0ETiZ1UMTSBXP6DcgnCgxPtiwZdofnrHvL8M6ececLIFAPKqCNCNR2a6qrgXdaajWF91an5OmGFaQ58P/u8UJaFXCcxz1fv9AF9oi+bIjwCjY2kyN9hg==
+Ma/2CNs7Vu+lHft0pQv+zdTNvfGbEF2YybRvfbkAhhu/Oex2tYSC8TjWJ1/my3Yumr5oq0JrlcN2aF547LujvgbnUsZ0EKOU+Wg53ULoWmquje+Qg82YORQZRWHX30kK6VyR/eOiQUlJE59LKjHvboni5DWCjX96wHTcYgwqJ8hVpSyth62dIVR5gM/YAliS8byjImazWpwl5VfPo4k47QSJ/Vhpj7ctpirkZQzM1yfrTi0ploIDuD2DPkA+TnVl3trqFzJ9iab1TDCUNwOH6gDi+E2ewa8KOMBvn0jel+peKK816mKBo1J3/IaA49UPOVYg8kSYvA58IIPQ9zV04g==
