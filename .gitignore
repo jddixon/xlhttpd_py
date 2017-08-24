@@ -13,6 +13,7 @@
 .sharedev
 .svn*
 .tmp
+.tox
 .wrapped
 .xlattice
 CVS
