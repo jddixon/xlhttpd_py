@@ -1,2 +1,3 @@
 # xlhttpd_py/requirements.txt
+setuptools
 

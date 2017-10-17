@@ -1,0 +1,32 @@
+projConfig.toml for xlhttpd_py
+
+[meta]
+    version = '0.1.0'
+
+[project]
+    name = 'xlhttpd_py'  # distro name
+    package = 'xlhttpd_py'  # internal name
+    main_lang = 'py'
+    version = '0.0.7'
+    version_date = '2017-10-17'
+    author = 'Jim Dixon'
+    author_email = 'jddixon@gmail.com'
+    copyright = '2017
+'
+    description = 'web server for XLattice'
+    dev_status = '2'
+    license = 'mit'
+    relpath = 'None'
+    state = 'private'
+    url = 'https://jddixon.github.io/xlhttpd_py'
+
+[py]
+    packages=['xlhttpd']
+    package_dir = ['src']
+    test_dir = ['tests']
+    py_modules=[]
+    scripts=[]
+    ext_modules=[]
+    distshare=[]
+    requirements=[]
+    test_requirements=[]
