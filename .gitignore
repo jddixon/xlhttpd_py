@@ -8,6 +8,7 @@
 .committed
 .coverage
 .dvczignore*
+.git
 .merkle
 .posted
 .sharedev

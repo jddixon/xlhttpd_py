@@ -1,5 +1,8 @@
 py/xlhttpd_py/CHANGES
 
+v0.0.7
+    2017-10-17
+        * add projConfig.toml                                       SLOC  452
 v0.0.6
     2017-08-24
         * add tox, *requirements.txt; minor edits *.cfg             SLOC  412
@@ -18,6 +21,7 @@ v0.0.2
 v0.0.1
     2017-03-29
         * initial commit
+
 
 
 
