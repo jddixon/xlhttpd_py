@@ -2,7 +2,7 @@
 
 """ web server for XLattice """
 
-__version__ = '0.0.7'
-__version_date__ = '2017-10-17'
+__version__ = '0.0.8'
+__version_date__ = '2017-12-28'
 
 __all__ = ['__version__', '__version_date__']
