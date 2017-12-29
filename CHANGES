@@ -1,5 +1,8 @@
 py/xlhttpd_py/CHANGES
 
+v0.0.8
+    2017-12-28
+        * pylinting; update config files                            SLOC  446
 v0.0.7
     2017-10-17
         * add projConfig.toml                                       SLOC  452
@@ -21,6 +24,7 @@ v0.0.2
 v0.0.1
     2017-03-29
         * initial commit
+
 
 
 
