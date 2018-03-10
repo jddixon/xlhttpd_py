@@ -8,18 +8,18 @@ k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
 xlhttpd_py
-2017-12-28 20:20:05
+2018-03-10 22:34:55
 # BEGIN CONTENT #
 xlhttpd_py
  .dvcz
-  builds 68b4eb6dcbc21006f3fbbcfdee2838e466217bb9
-  lastBuildList f36bd02e311a1b059d569cdf5c670d394ed3861c
+  builds f2c94e7a54241a14b348e9acd23f7d8ed81dabaf
+  lastBuildList 59d642e38ccc56dbf2942ad763830afa958bbf30
   projCfg 8c7ced48afee3f4689112d7c3dcc6d58e42d8c00
   projCfg.local b372335a312f223256f458ea12f21c93efb267c6
-  projConfig.toml 6cdc4c0cfdfab6ad2959115d228fc0c408398ac6
+  projConfig.toml c3e1a70f217a687d6622428f08c2916eb92899f7
  .gitignore 7de6b56ffe9e21d458fd606f462f7854743e09bb
  .gitignore.local dc759996ca1366caf080fde4a98d37e39e382eae
- CHANGES 71da32f812dbb1c494588d4a6e56d973fbe28ea3
+ CHANGES d64dd6caaceb95dec765a5c054d6ab97fe42ef8d
  LICENSE-MIT.md 929652e5fc4b6bb39bfb473732a42b8860d05b82
  MANIFEST.in ee87ecf6928c0c4c69376734eba9cf532ce748b1
  README.md 6492f05c3fbf5cf302bce504d82cd533ea7c2896
@@ -32,17 +32,17 @@ xlhttpd_py
   index.md 1974acde9cc52cf877f05407ae082e0cffbe6885
  installit d03a60493e5d8d2fe00aa4cf0906e0ce22b1377b
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- requirements.txt f6349ad9b48d23cde67ca64e0758e947442d2ecf
- setup.py dc871b036ffbd129368886e9a82302dd4f4dfd28
+ requirements.txt 747149607e738d60ed20f0a25d5001d4f9bf535b
+ setup.py 59483c429341e666fb8f31d2854ef89efcd09497
  src
   xlhttpd
-   __init__.py 9d494f23b549d445249a22cb166c28d8ce99f12a
+   __init__.py 5ce9b4ccd51d269e8411c7383906a48872ab545b
  styleit ba06f7c90dee45e852f5e6dfcf0a75395b881a2b
  test.all 27baba122d2cd5d8a807f5afc2c256b26ef9f7f6
- test_requirements.txt f98e3bc79ee6d70acef44c75f28832c8e53d4790
+ test_requirements.txt 87461cbb4827b0b29874336a6e0e645560ae5d89
  tests
   test_basics.py bd51ab0911dec1d1f24ebb40eacf2d8b02745d31
- tox.ini 27a4ad06f562ffbdcd0f7112840bebaf0703d77f
+ tox.ini 993ff1f94674e27aff0765c86eba20ab1b477b5e
 # END CONTENT #
 
-A+dlK1o+TDhY1+HzBubnAczroCqqyWqJjudIZPKrezl6LAoCqc3unWlRdTa8Wn5POtLFYIl/6Az06xULfjGzM0fyggycTI1MjVCXSWOXuJxOScgjB8caEbyne9Hll61v27VhR2CISYSdmsT1bpakq/8H2oz6wxahMRP5MFwNmggQjbP9p8JA6J1pzOdRpBzTBcZVphGRw6jmb+/oBGUxuVKgz3/LVhVxZxiEJyb4aUDtrnGE1FuYolhLwa8GJv8+IjUuVgm4lHHc4vKeT0lADHs2D7Oq71oNLJm4NpIPVnJxbfDqQR1+rOaYmYptZaIm+YkAAMsmCkxcXuCysIPd7Q==
+Sl34gsewRdh8GspQzrnVGVKr1FOOKOLCUjBdbE0PtIo1BAM7Mqhos7+TJ+sn6dK9nydc7dLL+h0EO0UnDhL8+7mnIWJ2/rSr+kVmURNNB/lM6/jooOzjBv775BXO3D0qHWXcU0F3292GLuRcu4OOZ2LS0Hi72mQZbBbk4EdSHLFBQ/2dzgrq6qCaBNapuOZXCykyilLOcnHCqN9Gh7vzeKbfDVBZO4Ee2Wg0tDkU/2BM/Q73/ZxCQw0spjwp0q1A9WeLaZTeFbJVQrdiZ25d5ndNz61NS1EqiPdwLv8bLzpBi1/8MyZag+63s53mwDos11Hwoc7HuxnMRj2l1x4bSg==
